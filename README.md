@@ -1,8 +1,8 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hola! Mi nombre es Alex
+# <img src="./avatar.jpeg" width=15% align=right /> Hola! Mi nombre es Alex
 
 **Estudiante en formacion** 💻 
 
-<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
+<a target="_blank"><img src="./fondo.jpg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
