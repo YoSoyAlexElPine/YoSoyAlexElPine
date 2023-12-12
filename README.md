@@ -24,7 +24,6 @@ Especialmente interesada en el desarrollo de software y actualmente estudiando t
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Cobol]([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://imgs.search.brave.com/4XkiX7068m22BBUfuN-Aw4_3_Z_THixkm4lG6ADRN6s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/aWJtLnN2Zw.svg))
 
 ### 🧩 Librerías & Frameworks 
 
