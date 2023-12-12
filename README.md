@@ -12,6 +12,7 @@ Especialmente interesada en el desarrollo de software y actualmente estudiando t
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexpinesanz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-pine%C3%B1o-sanchez-7556b4208/)
 
 ## ⚡ Tecnologías más usadas
 
