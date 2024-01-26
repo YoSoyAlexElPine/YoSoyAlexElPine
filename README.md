@@ -6,7 +6,7 @@
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
-Especialmente interesada en el desarrollo de software y actualmente estudiando todo tipo de lenguajes y tecnologias que me llaman la atención.
+Especialmente interesado en el desarrollo de software y actualmente estudiando todo tipo de lenguajes y tecnologias que me llaman la atención.
 
 
 ## Contacto
